@@ -130,7 +130,7 @@ Me chamo Juliano Cesar Ferreira Ramos, tenho 21 anos e sou natural de Belo Horiz
 
 </p>
 
----
+###
 
 <img src="https://raw.githubusercontent.com/AlphaFNTZ/AlphaFNTZ/output/snake.svg" alt="Snake animation" />
 
