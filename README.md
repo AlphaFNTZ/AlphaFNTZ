@@ -118,14 +118,14 @@ Me chamo Juliano Cesar Ferreira Ramos, tenho 21 anos e sou natural de Belo Horiz
     alt="GitHub Stats" 
     height="190" 
     style="padding-right: 5px;" 
-    src="https://github-readme-stats.vercel.app/api?username=alphafntz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=alphafntz&show_icons=true&theme=gotham&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="190" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphafntz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphafntz&theme=gotham&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
