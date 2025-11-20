@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Juliano Cesar Ferreira Ramos, tenho 21 anos e sou natural de Belo Horizonte. Concluí o ensino médio no CEFET (Centro Federal de Educação Tecnológica de Minas Gerais), com o curso técnico em mecatrônica. Atualmente, estou cursando Engenharia de Controle e Automação na UFLA (Universidade Federal de Lavras) e sou membro do time de DEV da Emakers Jr. atuando mais em projetos de front-end. Tenho o interesse voltado para o desenvolvimento WEB e cibersegurança.
+Me chamo Juliano Cesar Ferreira Ramos, tenho 22 anos e sou natural de Belo Horizonte. Concluí o ensino médio no CEFET (Centro Federal de Educação Tecnológica de Minas Gerais), com o curso técnico em mecatrônica. Atualmente, estou cursando Engenharia de Controle e Automação na UFLA (Universidade Federal de Lavras) e sou membro do time de DEV e diretor de projetos da Emakers Jr. atuando mais em projetos de front-end. Tenho o interesse voltado para o desenvolvimento WEB e cibersegurança.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/juliano-cesar-32651b231">
@@ -32,7 +32,7 @@ Me chamo Juliano Cesar Ferreira Ramos, tenho 21 anos e sou natural de Belo Horiz
 
 ### 👾 Linguagens e Tecnologias
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
+<p align="left" style="display: flex; gap: 12px;">
     <img 
         align="left" 
         alt="HTML"
