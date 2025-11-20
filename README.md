@@ -142,6 +142,10 @@ Me chamo Juliano Cesar Ferreira Ramos, tenho 21 anos e sou natural de Belo Horiz
 
 #### 🔹 Projeto 1 — Minipaginas
 
+<a href="https://alphafntz.github.io/NextScreen/" target="_blank">
+    Clique aqui para acessar o projeto
+</a>
+
 **Descrição:**  
 Conjunto de pequenas páginas desenvolvidas com foco em navegação simples, organização de layout e prática de componentes reutilizáveis. O projeto demonstra animações leves, responsividade e estruturação limpa de front-end.
 
@@ -155,6 +159,10 @@ Conjunto de pequenas páginas desenvolvidas com foco em navegação simples, org
 ---
 
 #### 🔹 Projeto 2 — Emakers connect
+
+<a href="https://connect.emakersjr.com.br/" target="_blank">
+    Clique aqui para acessar o projeto
+</a>
 
 **Descrição:**  
 Landing page desenvolvida para centralizar informações sobre o evento e facilitar o contato com as empresas patrocinadoras e com a Emakers Jr. O projeto conta com seções bem estruturadas, bastante animação chamativa, e com foco em acessibilidade.
@@ -172,6 +180,10 @@ Landing page desenvolvida para centralizar informações sobre o evento e facili
 ---
 
 #### 🔹 Projeto 3 — Emakers de portas abertas (Somente versão desktop)
+
+<a href="https://alphafntz.github.io/LP-Eventos/" target="_blank">
+    Clique aqui para acessar o projeto
+</a>
 
 **Descrição:**  
 Landing page institucional feita para divulgar o evento “Emakers de Portas Abertas”, com estrutura clara, visual atrativo e seções desenvolvidas para aumentar o engajamento e a conversão dos visitantes.
