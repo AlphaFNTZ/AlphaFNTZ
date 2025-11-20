@@ -142,19 +142,19 @@ Me chamo Juliano Cesar Ferreira Ramos, tenho 21 anos e sou natural de Belo Horiz
   <tr>
     <td align="center">
       <a href="https://alphafntz.github.io/NextScreen/" target="_blank">
-        <img src="https://raw.githubusercontent.com/AlphaFNTZ/AlphaFNTZ/main/assets/GIF-Minipaginas-[2MB].gif" width="400" />
+        <img src="https://raw.githubusercontent.com/AlphaFNTZ/AlphaFNTZ/main/assets/GIF-Minipaginas-[2MB].gif?v=1" width="400" />
         <sub><b>Projeto 1 — Minipaginas</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="" target="_blank">
-        <img src="https://raw.githubusercontent.com/AlphaFNTZ/AlphaFNTZ/main/assets/GIF-Minipaginas-[4MB].gif" width="400" />
+        <img src="https://raw.githubusercontent.com/AlphaFNTZ/AlphaFNTZ/main/assets/GIF-Minipaginas-[4MB].gif?v=1" width="400" />
         <sub><b>Projeto 2 — Dashboard React</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="" target="_blank">
-        <img src="https://raw.githubusercontent.com/AlphaFNTZ/AlphaFNTZ/main/assets/GIF-Minipaginas-[6MB].gif" width="400" />
+        <img src="https://raw.githubusercontent.com/AlphaFNTZ/AlphaFNTZ/main/assets/GIF-Minipaginas-[6MB].gif?v=1" width="400" />
         <sub><b>Projeto 3 — Dashboard React</b></sub>
       </a>
     </td>
