@@ -32,79 +32,71 @@ Me chamo Juliano Cesar Ferreira Ramos, tenho 21 anos e sou natural de Belo Horiz
 
 ### 👾 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px; margin-bottom: 12px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px; margin-bottom: 12px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px; margin-bottom: 12px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img
-    align="left"
-    alt="Java"
-    title="Java"
-    width="30px"
-    style="padding-right: 10px; margin-bottom: 12px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img
-    align="left"
-    alt="React"
-    title="React"
-    width="30px"
-    style="padding-right: 10px; margin-bottom: 12px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img
-    align="left"
-    alt="Vite"
-    title="Vite"
-    width="30px"
-    style="padding-right: 10px; margin-bottom: 12px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"
-/>
-<img
-    align="left"
-    alt="Bootstrap"
-    title="Bootstrap"
-    width="30px"
-    style="padding-right: 10px; margin-bottom: 12px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
-/>
-<img
-    align="left"
-    alt="MUI"
-    title="MUI"
-    width="30px"
-    style="padding-right: 10px; margin-bottom: 12px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg"
-/>
-<img
-    align="left"
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right: 10px; margin-bottom: 12px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-<br/>
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
+    <img 
+        align="left" 
+        alt="HTML"
+        title="HTML" 
+        width="30px"  
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="CSS" 
+        title="CSS"
+        width="30px"  
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="JavaScript" 
+        title="JavaScript"
+        width="30px"  
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    />
+    <img
+        align="left"
+        alt="Java"
+        title="Java"
+        width="30px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+    />
+    <img
+        align="left"
+        alt="React"
+        title="React"
+        width="30px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    />
+    <img
+        align="left"
+        alt="Vite"
+        title="Vite"
+        width="30px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"
+    />
+    <img
+        align="left"
+        alt="Bootstrap"
+        title="Bootstrap"
+        width="30px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+    />
+    <img
+        align="left"
+        alt="MUI"
+        title="MUI"
+        width="30px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg"
+    />
+    <img
+        align="left"
+        alt="Git"
+        title="Git"
+        width="30px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+    />
+<p/>
 <br/>
 
 ---
@@ -114,16 +106,16 @@ Me chamo Juliano Cesar Ferreira Ramos, tenho 21 anos e sou natural de Belo Horiz
 <p align="center">
   <img 
     align="center" 
-    alt="GitHub Stats" 
-    height="190" 
+    alt="GitHub Stats"
+    height="190"
     style="padding-right: 5px;" 
-    src="https://github-readme-stats.vercel.app/api?username=alphafntz&show_icons=true&theme=gotham&include_all_commits=true&hide_border=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=alphafntz&show_icons=true&theme=gotham&include_all_commits=true&hide_border=true&locale=pt-br&bg_color=00000000&card_width=474px" 
   />
   <img 
       align="center" 
-      alt="GitHub Stats" 
-      height="190" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphafntz&theme=gotham&layout=compact&custom_title=Tecnologias&hide_border=true&langs_count=9" 
+      alt="GitHub Stats"
+      height="190"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphafntz&theme=gotham&layout=compact&custom_title=Tecnologias&hide_border=true&langs_count=9&bg_color=00000000&card_width=474px" 
   />
 </p>
 
