@@ -140,34 +140,39 @@ Me chamo Juliano Cesar Ferreira Ramos, tenho 21 anos e sou natural de Belo Horiz
 
 ---
 
-#### 🔹 Projeto 1 — Minipaginas
+#### 🔹 PROJETO 1 - NEXTSCREEN
 
-<a href="https://alphafntz.github.io/NextScreen/" target="_blank">
-    Clique aqui para acessar o projeto
-</a>
+    Informações do Projeto:
+    - 🔗 Acesso: https://alphafntz.github.io/NextScreen/
+    - 🟢 Status: Concluído
+    - 📅 Desenvolvido para: Emakers Jr.
 
-**Descrição:**  
+**DESCRIÇÃO:**
+
 Conjunto de pequenas páginas desenvolvidas com foco em navegação simples, organização de layout e prática de componentes reutilizáveis. O projeto demonstra animações leves, responsividade e estruturação limpa de front-end.
 
-**Tecnologias e Ferramentas:**
+**TECNOLOGIAS E FERRAMENTAS:**
 
 - **React** (Vite)
 - **JavaScript**
+
+<p/>
 
 ![GIF-Minipaginas- 480p](https://github.com/user-attachments/assets/cb060367-6614-4bec-a357-d22bb45b9b7e)
 
 ---
 
-#### 🔹 Projeto 2 — Emakers connect
+#### 🔹 PROJETO 2 - EMAKERS CONNECT
 
-<a href="https://connect.emakersjr.com.br/" target="_blank">
-    Clique aqui para acessar o projeto
-</a>
+    Informações do Projeto:
+    - 🔗 Acesso: https://connect.emakersjr.com.br/
+    - 🟢 Status: Concluído
+    - 📅 Desenvolvido para: Emakers Jr.
 
-**Descrição:**  
+**DESCRIÇÃO:**  
 Landing page desenvolvida para centralizar informações sobre o evento e facilitar o contato com as empresas patrocinadoras e com a Emakers Jr. O projeto conta com seções bem estruturadas, bastante animação chamativa, e com foco em acessibilidade.
 
-**Tecnologias e Ferramentas:**
+**TECNOLOGIAS E FERRAMENTAS:**
 
 - **React** (Vite)
 - **JavaScript**
@@ -175,26 +180,31 @@ Landing page desenvolvida para centralizar informações sobre o evento e facili
 - **React Router**
 - **Framer Motion**
 
+<p/>
+
 ![GIF-Emakers-connect- 480p](https://github.com/user-attachments/assets/2844d1c2-05ea-405e-a4b4-831cdbbc1a8f)
 
 ---
 
-#### 🔹 Projeto 3 — Emakers de portas abertas (Somente versão desktop)
+#### 🔹 PROJETO 3 - EMAKERS DE PORTAS ABERTAS (Somente versão desktop)
 
-<a href="https://alphafntz.github.io/LP-Eventos/" target="_blank">
-    Clique aqui para acessar o projeto
-</a>
+    Informações do Projeto:
+    - 🔗 Acesso: https://alphafntz.github.io/LP-Eventos/
+    - 🟢 Status: Concluído
+    - 📅 Desenvolvido para: Emakers Jr.
 
-**Descrição:**  
+**DESCRIÇÃO:**  
 Landing page institucional feita para divulgar o evento “Emakers de Portas Abertas”, com estrutura clara, visual atrativo e seções desenvolvidas para aumentar o engajamento e a conversão dos visitantes.
 
-**Tecnologias e Ferramentas:**
+**TECNOLOGIAS E FERRAMENTAS:**
 
 - **React** (Vite)
 - **JavaScript**
 - **CSS Modules**
 - **Framer Motion**
 - **React Router**
+
+<p/>
 
 ![GIF-LP-evento- 480p](https://github.com/user-attachments/assets/2d699f50-8aad-41d3-97da-f432646793fe)
 
