@@ -138,43 +138,34 @@ Me chamo Juliano Cesar Ferreira Ramos, tenho 21 anos e sou natural de Belo Horiz
 
 ### 💼 Portfólio
 
-![GIF-Minipaginas- 2MB](https://github.com/user-attachments/assets/ef1761cf-6167-4a90-9380-bfa93bd64a18)
+<!-- ![GIF-Minipaginas- 2MB](https://github.com/user-attachments/assets/ef1761cf-6167-4a90-9380-bfa93bd64a18) -->
 
 <table>
   <tr>
+    <!-- PROJETO 1 -->
     <td align="center">
       <a href="https://alphafntz.github.io/NextScreen/" target="_blank">
-        
-        <!-- GIF REPRESENTADO PELA SUA TAG -->
-        <img src="https://github.com/user-attachments/assets/ef1761cf-6167-4a90-9380-bfa93bd64a18" width="400">
-
+        <img src="https://github.com/user-attachments/assets/ef1761cf-6167-4a90-9380-bfa93bd64a18" width="400" />
         <br/>
         <sub><b>Projeto 1 — Minipaginas</b></sub>
       </a>
     </td>
-
+    <!-- PROJETO 2 -->
     <td align="center">
       <a href="#" target="_blank">
-
-        <!-- COLOQUE AQUI O GIF DO PROJETO 2 -->
-        <img src="https://github.com/user-attachments/assets/ef1761cf-6167-4a90-9380-bfa93bd64a18" width="400">
-
+        <img src="https://github.com/user-attachments/assets/ef1761cf-6167-4a90-9380-bfa93bd64a18" width="400" />
         <br/>
         <sub><b>Projeto 2 — Dashboard React</b></sub>
       </a>
     </td>
-
+    <!-- PROJETO 3 -->
     <td align="center">
       <a href="#" target="_blank">
-
-        <!-- COLOQUE AQUI O GIF DO PROJETO 3 -->
-        <img src="https://github.com/user-attachments/assets/ef1761cf-6167-4a90-9380-bfa93bd64a18" width="400">
-
+        <img src="https://github.com/user-attachments/assets/ef1761cf-6167-4a90-9380-bfa93bd64a18" width="400" />
         <br/>
         <sub><b>Projeto 3 — Dashboard React</b></sub>
       </a>
     </td>
-
   </tr>
 </table>
 
