@@ -146,9 +146,15 @@ Me chamo Juliano Cesar Ferreira Ramos, tenho 21 anos e sou natural de Belo Horiz
 
 ---
 
-#### 🔹 Projeto 2 — Minipaginas
+#### 🔹 Projeto 2 — Emakers connect
 
+![GIF-Emakers-connect- 800p](https://github.com/user-attachments/assets/5b72204c-2fdf-47a2-a8a0-07d89491efa6)
 
+---
+
+#### 🔹 Projeto 3 — Emakers de portas abertas
+
+![GIF-LP-evento- 480p](https://github.com/user-attachments/assets/2d699f50-8aad-41d3-97da-f432646793fe)
 
 ---
 
