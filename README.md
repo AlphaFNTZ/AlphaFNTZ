@@ -142,21 +142,13 @@ Me chamo Juliano Cesar Ferreira Ramos, tenho 21 anos e sou natural de Belo Horiz
 
 #### 🔹 Projeto 1 — Minipaginas
 
-<div style="width: fit-content;">
-    ![GIF-Minipaginas](https://github.com/user-attachments/assets/ef1761cf-6167-4a90-9380-bfa93bd64a18)
-</div>
+![GIF-Minipaginas- 800p](https://github.com/user-attachments/assets/27c8ad38-51fe-4946-a8e4-62c6eec1f3b6)
 
 ---
 
 #### 🔹 Projeto 2 — Minipaginas
 
-![GIF-Minipaginas](https://github.com/user-attachments/assets/d23a9ad8-b505-4f68-b109-6fc92835057f)
 
----
-
-#### 🔹 Projeto 3 — Minipaginas
-
-![GIF-Minipaginas](https://github.com/user-attachments/assets/76003220-1f60-434b-87b9-633a269b0177)
 
 ---
 
