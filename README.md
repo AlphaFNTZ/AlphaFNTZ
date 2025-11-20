@@ -142,13 +142,49 @@ Me chamo Juliano Cesar Ferreira Ramos, tenho 21 anos e sou natural de Belo Horiz
 
 #### 🔹 Projeto 1 — Minipaginas
 
-![GIF-Minipaginas- 800p](https://github.com/user-attachments/assets/27c8ad38-51fe-4946-a8e4-62c6eec1f3b6)
+**Descrição:**  
+Conjunto de pequenas páginas desenvolvidas com foco em navegação simples, organização de layout e prática de componentes reutilizáveis. O projeto demonstra animações leves, responsividade e estruturação limpa de front-end.
+
+**Tecnologias e Ferramentas:**
+
+- **React** (Vite)
+- **JavaScript**
+
+![GIF-Minipaginas- 480p](https://github.com/user-attachments/assets/cb060367-6614-4bec-a357-d22bb45b9b7e)
 
 ---
 
-#### 🔹 Projeto 2 — Minipaginas
+#### 🔹 Projeto 2 — Emakers connect
 
+**Descrição:**  
+Landing page desenvolvida para centralizar informações sobre o evento e facilitar o contato com as empresas patrocinadoras e com a Emakers Jr. O projeto conta com seções bem estruturadas, bastante animação chamativa, e com foco em acessibilidade.
 
+**Tecnologias e Ferramentas:**
+
+- **React** (Vite)
+- **JavaScript**
+- **Styled Components / CSS Modules**
+- **React Router**
+- **Framer Motion**
+
+![GIF-Emakers-connect- 480p](https://github.com/user-attachments/assets/2844d1c2-05ea-405e-a4b4-831cdbbc1a8f)
+
+---
+
+#### 🔹 Projeto 3 — Emakers de portas abertas (Somente versão desktop)
+
+**Descrição:**  
+Landing page institucional feita para divulgar o evento “Emakers de Portas Abertas”, com estrutura clara, visual atrativo e seções desenvolvidas para aumentar o engajamento e a conversão dos visitantes.
+
+**Tecnologias e Ferramentas:**
+
+- **React** (Vite)
+- **JavaScript**
+- **CSS Modules**
+- **Framer Motion**
+- **React Router**
+
+![GIF-LP-evento- 480p](https://github.com/user-attachments/assets/2d699f50-8aad-41d3-97da-f432646793fe)
 
 ---
 
