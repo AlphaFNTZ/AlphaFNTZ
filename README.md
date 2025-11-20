@@ -142,7 +142,7 @@ Me chamo Juliano Cesar Ferreira Ramos, tenho 21 anos e sou natural de Belo Horiz
   <tr>
     <td align="center">
       <a href="https://alphafntz.github.io/NextScreen/" target="_blank">
-        ![Image](https://github.com/user-attachments/assets/8843abce-f0df-4ec8-acf0-7cc9e438fe83)
+        <img src="https://github.com/user-attachments/assets/8843abce-f0df-4ec8-acf0-7cc9e438fe83" width="400" />
         <sub><b>Projeto 1 — Minipaginas</b></sub>
       </a>
     </td>
