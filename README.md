@@ -118,8 +118,6 @@ Me chamo Juliano Cesar Ferreira Ramos, tenho 22 anos e sou natural de Belo Horiz
 
 ### 💼 Portfólio
 
----
-
 #### 🔹 PROJETO 1 - NEXTSCREEN
 
     Informações do Projeto:
