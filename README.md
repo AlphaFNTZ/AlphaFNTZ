@@ -89,11 +89,11 @@ Me chamo Juliano Cesar Ferreira Ramos, tenho 22 anos e sou natural de Belo Horiz
     />
 <p/>
 
----
+<!-- ---
 
 ### 📊 Estatísticas
 
-<!-- <p align="center" style="display: flex; flex-wrap: wrap">
+<p align="center" style="display: flex; flex-wrap: wrap">
   <img 
     align="center" 
     alt="GitHub Stats"
@@ -106,13 +106,13 @@ Me chamo Juliano Cesar Ferreira Ramos, tenho 22 anos e sou natural de Belo Horiz
   />
 </p>
 
-### -->
+### 
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/AlphaFNTZ/AlphaFNTZ/output/snake.svg" alt="Snake animation" />
 <p/>
 
-###
+### -->
 
 ---
 
