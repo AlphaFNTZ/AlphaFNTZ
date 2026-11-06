@@ -106,6 +106,109 @@ Na graduação, desenvolvo projetos que unem software, sensores e automação, c
 
 ### 💼 Portfólio
 
+### 📱 Projetos Mobile
+ 
+#### 🔹 PROJETO 1 - SAF (SISTEMA DE APOIO FISCAL)
+ 
+<table>
+<tr>
+<td width="62%" valign="top">
+ 
+    Informações do Projeto:
+    - 🟡 Status: Em desenvolvimento
+    - 📅 Desenvolvido para: GEDAI / IMA
+    - 👨🏻‍💻 Papel: Desenvolvedor Mobile
+ 
+**DESCRIÇÃO:**
+ 
+Aplicativo do Sistema de Apoio Fiscal, utilizado pelo Instituto Mineiro de Agropecuária (IMA) no trabalho de fiscalização em campo. Atuo no desenvolvimento das telas e na integração com as APIs do sistema.
+ 
+**TECNOLOGIAS E FERRAMENTAS:**
+ 
+- **Flutter**
+- **Dart**
+- **BLoC** (gerenciamento de estado)
+- **APIs REST**
+
+</td>
+<td width="38%" align="center" valign="top">
+<!-- Troque pelo link do GIF ou vídeo do SAF -->
+<img src="https://github.com/user-attachments/assets/5454c055-d3e7-4c30-a6ae-11bca3d46c16" width="250" alt="Demonstração do app SAF" />
+</td>
+</tr>
+</table>
+
+---
+ 
+#### 🔹 PROJETO 2 - SEEDMAP
+ 
+<table>
+<tr>
+<td width="62%" valign="top">
+ 
+    Informações do Projeto:
+    - 🟡 Status: Em desenvolvimento
+    - 📅 Desenvolvido para: Instituto Compensar
+    - 👨🏻‍💻 Papel: Desenvolvedor Mobile
+ 
+**DESCRIÇÃO:**
+ 
+Aplicativo para cadastro de matrizes florestais (árvores porta-semente) e registro de coletas de sementes em campo, com funcionamento offline, mapa e leitura de QR Code.
+
+Atuei no planejamento da área de coleta, integrando a API às telas, corrigi o cálculo de matrizes dentro da área com a fórmula de Haversine e desenvolvi componentes de interface seguindo o design system do app.
+ 
+**TECNOLOGIAS E FERRAMENTAS:**
+ 
+- **Flutter** / **Dart**
+- **Bloc / Cubit** (gerenciamento de estado)
+- **Drift / SQLite** (dados offline)
+- **Dio** (APIs REST)
+- **flutter_map** e **Geolocator** (mapa e localização)
+
+</td>
+<td width="38%" align="center" valign="top">
+<!-- Troque pelo link do GIF ou vídeo do SeedMap -->
+<img src="https://github.com/user-attachments/assets/5a4181c5-23d0-49fd-8f4b-17f4aeb6a06a" width="250" alt="Demonstração do app SeedMap" />
+</td>
+</tr>
+</table>
+
+---
+ 
+#### 🔹 PROJETO 3 - RASTRO
+ 
+<table>
+<tr>
+<td width="62%" valign="top">
+  
+    Informações do Projeto:
+    - 🟡 Status: Em desenvolvimento
+    - 📅 Desenvolvido para: GAT108 - Automação Avançada (UFLA)
+    - 👥 Projeto em grupo
+    
+**DESCRIÇÃO:**
+    
+Aplicativo Android que transforma smartphones comuns em nós de uma rede mesh offline, pensado para equipes que trabalham em áreas sem sinal de celular ou internet. As mensagens e alertas SOS com localização passam de aparelho em aparelho até chegar ao destino, com chat cifrado que os intermediários não conseguem ler, mapa offline e entrega por portadores quando o destinatário está fora de alcance. A próxima etapa é a detecção de quedas com IA rodando no próprio dispositivo.
+     
+**TECNOLOGIAS E FERRAMENTAS:**
+     
+- **Kotlin / Java**
+- **Nearby Connections** (rede mesh P2P)
+- **MapLibre** (mapa offline)
+- **JUnit**
+  
+</td>
+   
+<td width="38%" align="center" valign="top">
+<!-- Troque pelo link do GIF ou vídeo do Rastro -->
+<img src="https://github.com/user-attachments/assets/a49df129-d7f4-4b9b-a95f-766c802706b8" width="250" alt="Demonstração do app Rastro" />
+</td>
+</tr>
+
+</table>
+ 
+## 🌐 Projetos Web
+
 #### 🔹 PROJETO 1 - NEXTSCREEN
 
     Informações do Projeto:
@@ -173,7 +276,5 @@ Landing page institucional feita para divulgar o evento “Emakers de Portas Abe
 <p/>
 
 ![GIF-LP-evento- 480p](https://github.com/user-attachments/assets/2d699f50-8aad-41d3-97da-f432646793fe)
-
----
 
 ###
